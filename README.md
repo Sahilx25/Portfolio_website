@@ -7,4 +7,4 @@ www.netlify.com (huge thanks for setting up my website).<br>
 Thank You,<br>
 Happy Coding!<br><br>
 You can visit my website by clicking on the following link :<br>
-https://dulcet-cucurucho-1ee3ed.netlify.app
+<a target ="_blank" href="https://dulcet-cucurucho-1ee3ed.netlify.app">https://dulcet-cucurucho-1ee3ed.netlify.app</a>
