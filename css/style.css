@@ -56,35 +56,34 @@ h4{
 }
 .about img{
 	height: auto;
-	width: 400px;
-margin-left: 15px;
-          margin-right: 20px;
+	width: 450px;
+	margin-left: 15px;
+	margin-right: 15px;
 }
+
 .about-text{
 	width: 1000px;
-          text-align: center;
-margin-left: 125px;
+	text-align: center;
+	margin-left: 125px;
 
 }
 .main{
 	width: 1130px;
-	max-width: 95%;
-align-items: center;
-	margin-left: 100px;
-          margin-right: 100px;
+	max-width: 100%;
+	align-items: center;
+	margin-left: 80px;
+	margin-right: 800px;
 }
+
 .about-text h2{
 	color: white;
 	font-size: 40px;
-	text-transform: capitalize;
-	
+	text-transform: capitalize;	
 }
 
 .about-text h3{
 	color: white;
 	font-size: 30px;
-	
-
 }
 
 .about-text h5{
