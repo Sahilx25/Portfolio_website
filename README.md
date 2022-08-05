@@ -1,6 +1,6 @@
 # Portfolio Website
 Hello,<br>
-This is Sahil Chauhan, I made this portfolio website using HTML & CSS to design the website colour schemes and looks.
+This is Sahil Chauhan, I made this portfolio website using HTML & CSS.
 I have linked my varios social accounts to the website as well as i have linked  the certificates to the Institue's original certification data.
 I have deployed this website using the free service provided by
 www.netlify.com.<br><br>
