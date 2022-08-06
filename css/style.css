@@ -9,8 +9,8 @@
 	width: 100%;
 	background-image: url(../img/background.jpg);
 	background-size: cover;
-	background-max-height: 100%;
-	background-max-width: 100%;
+	background-max-height: 90%;
+	background-max-width: 90%;
 	background-position: center;
 }
 span{
