@@ -8,9 +8,8 @@
 	height: 90vh;
 	max-width: 100%;
 	background-image: url(../img/background.jpg);
-	background-size: cover;
+/* 	background-size: cover; */
 	background-position: center;
-	image-fit:scale-down;
 }
 span{
 	color: #f9004d;
