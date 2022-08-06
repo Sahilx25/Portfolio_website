@@ -10,7 +10,7 @@
 	background-image: url(../img/background.jpg);
 	background-size: cover;
 	background-position: center;
-	background-fir:scale-down;
+	background-fit:scale-down;
 }
 span{
 	color: #f9004d;
