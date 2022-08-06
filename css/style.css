@@ -5,10 +5,10 @@
 	box-sizing: border-box;
 }
 .hero{
-	height: 90vh;
+	max-height: 90vh;
 	max-width: 100%;
 	background-image: url(../img/background.jpg);
-/* 	background-size: cover; */
+	background-size: cover;
 	background-position: center;
 }
 span{
